@@ -1,0 +1,42 @@
+username,Activity, Timestamp
+Cynthia,Login Failure,1/10/2020
+Frank,Login Success,2/23/2020
+Frank,Login Failure,2/23/2020
+Frank,Login Success,2/24/2020
+Josh,Login Success,2/25/2020
+Frank,Login Success,2/25/2020
+Frank,Login Failure,2/25/2020
+Cynthia,"File downloaded ""jazzy_music.mp3""",2/25/2020
+Cynthia,Logout Success,2/25/2020
+Cynthia,Login Success,2/25/2020
+Cynthia,Login Failure,7/11/2020
+Josh,Login Success,10/5/2020
+Josh,Login Success,10/6/2020
+Josh,Login Failure,11/1/2020
+Josh,Login Failure,11/2/2020
+Josh,Login Failure,11/3/2020
+Josh,Login Failure,11/4/2020
+Josh,Login Failure,11/10/2020
+Josh,Login Failure,11/12/2020
+Josh,Login Failure,11/13/2020
+Josh,Login Failure,11/17/2020
+Frank,Login Failure,11/17/2020
+Josh,Login Success,12/10/2020
+Frank,Login Success,12/10/2020
+Frank,Login Failure,12/10/2020
+Frank,Audit Policy Change on machinename bear1001,12/10/2020
+Frank,Audit Policy Change on machinename bear12001,12/10/2020
+Frank,Audit Policy Change on machinename bear1003,12/10/2020
+Frank,Audit Policy Change on machinename bear1007,12/10/2020
+Frank,Audit Policy Change on machinename bear1001,12/10/2020
+Frank,Audit Policy Change on machinename bear1001,12/10/2020
+Frank,Registry Changed,12/10/2020
+Frank,Registry Changed,12/10/2020
+Frank,Registry Changed,12/10/2020
+Cynthia,Logout Success,12/13/2020
+Cynthia,Login Success,12/13/2020
+Cynthia,Login Failure,12/13/2020
+Cynthia,"File downloaded ""rock_music.mp3""",12/14/2020
+Cynthia,Logout Success,12/14/2020
+Cynthia,Login Success,12/14/2020
+Cynthia,Login Failure,12/14/2020
